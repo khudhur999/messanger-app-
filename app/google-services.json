@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "864218090826",
+    "firebase_url": "https://messanger-c1b63.firebaseio.com",
+    "project_id": "messanger-c1b63",
+    "storage_bucket": "messanger-c1b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864218090826:android:0f3d4889bc1bd800",
+        "android_client_info": {
+          "package_name": "com.example.khudhur.messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864218090826-e8pjc1p825ko5kudl5lc0cm6u4pmjegj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khudhur.messanger",
+            "certificate_hash": "a7f4519d258961ea099bc6f03d91e9c713b2c319"
+          }
+        },
+        {
+          "client_id": "864218090826-kvmog41b2bjqubr5tfla77c0meugmb4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQ6WM3Zna1nqnD3nxgRNX2cHGlJ1LBOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864218090826-kvmog41b2bjqubr5tfla77c0meugmb4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
